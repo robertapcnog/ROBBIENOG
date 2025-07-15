@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando em pequenos projetos para iniciantes
-- 🌱 Estou aprendendo HTML, CSS e JavaScript
+- 🌱 Estou aprendendo HTML, CSS, JavaScript e Python
 
 
 <div align="center">
@@ -14,6 +14,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"">
   </div>
   
   ###
